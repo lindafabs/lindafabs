@@ -11,6 +11,6 @@
 
 
  - [**Acoustic OFDM transceiver**](): MATLAB implementation of an OFDM transmission scheme for a microphone-speaker system. 
- - [**IS-95 MIMO/CDMA implementation**](): MATLAB implementation of the IS-95 standard using CDMA protocols on both SISO/MIMO systems.
+ - [**IS-95 MIMO/CDMA implementation**](https://github.com/camilladezan/IS95_FinalProject): MATLAB implementation of the IS-95 standard using CDMA protocols on both SISO/MIMO systems.
 
 
